@@ -13,7 +13,7 @@ Aktor & Fiturnya
 1. Calon karyawan
 *******************
 - mengisi soal psikotest
-- melihat hasil akhir (diterima / ditolak bekerja)
+- melihat hasil akhir (diterima / ditolak bekerja).
 
 *******************
 2. Hrd
